@@ -1,0 +1,15 @@
+C:\Users\Milos\source\repos\Realstaq\Realstaq\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Milos\source\repos\Realstaq\Realstaq\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\Milos\source\repos\Realstaq\Realstaq\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\Milos\source\repos\Realstaq\Realstaq\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\Milos\source\repos\Realstaq\Realstaq\bin\Debug\netcoreapp2.1\Realstaq.deps.json
+C:\Users\Milos\source\repos\Realstaq\Realstaq\bin\Debug\netcoreapp2.1\Realstaq.runtimeconfig.json
+C:\Users\Milos\source\repos\Realstaq\Realstaq\bin\Debug\netcoreapp2.1\Realstaq.runtimeconfig.dev.json
+C:\Users\Milos\source\repos\Realstaq\Realstaq\bin\Debug\netcoreapp2.1\Realstaq.dll
+C:\Users\Milos\source\repos\Realstaq\Realstaq\bin\Debug\netcoreapp2.1\Realstaq.pdb
+C:\Users\Milos\source\repos\Realstaq\Realstaq\obj\Debug\netcoreapp2.1\Realstaq.csprojAssemblyReference.cache
+C:\Users\Milos\source\repos\Realstaq\Realstaq\obj\Debug\netcoreapp2.1\Realstaq.csproj.CoreCompileInputs.cache
+C:\Users\Milos\source\repos\Realstaq\Realstaq\obj\Debug\netcoreapp2.1\Realstaq.AssemblyInfoInputs.cache
+C:\Users\Milos\source\repos\Realstaq\Realstaq\obj\Debug\netcoreapp2.1\Realstaq.AssemblyInfo.cs
+C:\Users\Milos\source\repos\Realstaq\Realstaq\obj\Debug\netcoreapp2.1\Realstaq.dll
+C:\Users\Milos\source\repos\Realstaq\Realstaq\obj\Debug\netcoreapp2.1\Realstaq.pdb
